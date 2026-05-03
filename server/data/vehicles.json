@@ -1,0 +1,8 @@
+[
+  { "id": "VH-001", "plate": "B 1234 XY", "driver": "Ahmad Fauzi", "lat": -6.2088, "lng": 106.8456, "status": "normal", "route": "Jakarta Pusat → Bekasi", "eta": "14:32", "speed": 42, "carbon": 12.4, "fuel": 68, "cargo": "Electronics", "weight": 850 },
+  { "id": "VH-002", "plate": "B 5678 AB", "driver": "Budi Santoso", "lat": -6.2350, "lng": 106.9750, "status": "delayed", "route": "Bekasi → Cikarang", "eta": "15:10", "speed": 18, "carbon": 24.7, "fuel": 45, "cargo": "Fashion", "weight": 650 },
+  { "id": "VH-003", "plate": "B 9012 CD", "driver": "Siti Rahayu", "lat": -6.1751, "lng": 106.6279, "status": "warning", "route": "Tangerang → Jakarta Barat", "eta": "14:55", "speed": 31, "carbon": 18.2, "fuel": 72, "cargo": "FMCG", "weight": 1200 },
+  { "id": "VH-004", "plate": "B 3456 EF", "driver": "Deni Kurniawan", "lat": -6.3025, "lng": 106.7942, "status": "normal", "route": "Depok → Jakarta Selatan", "eta": "13:48", "speed": 55, "carbon": 9.8, "fuel": 81, "cargo": "Groceries", "weight": 450 },
+  { "id": "VH-005", "plate": "B 7890 GH", "driver": "Rina Wulandari", "lat": -6.1456, "lng": 106.8960, "status": "delayed", "route": "Jakarta Utara → Cakung", "eta": "16:20", "speed": 12, "carbon": 31.5, "fuel": 33, "cargo": "Heavy Equipment", "weight": 2100 },
+  { "id": "VH-006", "plate": "B 2345 IJ", "driver": "Wahyu Prasetyo", "lat": -6.2583, "lng": 106.7383, "status": "normal", "route": "Jakarta Barat → Tangerang", "eta": "14:05", "speed": 61, "carbon": 8.9, "fuel": 90, "cargo": "Pharmaceuticals", "weight": 300 }
+]
