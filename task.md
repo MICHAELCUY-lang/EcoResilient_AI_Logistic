@@ -1,0 +1,12 @@
+- [ ] Create `client/src/hooks/useFleetEngine.js` – core engine, map init, movement loop, traffic & weather integration.
+- [ ] Create `client/src/services/trafficEngine.js` – traffic simulation, factor calculation, Leaflet polyline layer.
+- [ ] Extend `client/src/services/weatherService.js` – add `getWeatherZones` for map overlay.
+- [ ] Create `client/src/components/Map/TrafficLayer.jsx` – renders traffic polylines, updates on traffic changes.
+- [ ] Create `client/src/components/Map/WeatherOverlay.jsx` – renders weather zone icons on the map.
+- [ ] Create `client/src/components/TruckPopup.jsx` – rich popup UI with origin, destination, weather, traffic, ETA, progress.
+- [ ] Update `client/src/utils/truckIcons.js` – include weather emoji overlay, speed‑bucket colours.
+- [ ] Extend `client/src/utils/etaEngine.js` – accept traffic multiplier & stoplight factor.
+- [ ] Overwrite `client/src/pages/LiveTracking.jsx` – use `useFleetEngine`, add left panel enhancements, map layers, right intel panel.
+- [ ] Verify movement‑speed sync, dynamic speed states, accurate OSRM routes, traffic overlay, weather overlay, ETA updates.
+- [ ] Performance test (ensure >50 fps on map).
+- [ ] Update README if needed (optional).
